@@ -6,7 +6,7 @@ var time = 1500; //1,5 sekunder mellan bilderna
 //Bildlista
 images[0] = 'Images/AftonbladetDD.JPG';
 images[1] = 'Images/Climatepersona.png';
-images[2] = 'Images/brainstorming.JPG';
+images[2] = 'Images/WSwinner.JPG';
 
 //Byta bild-funktion
 function changeImg(){
