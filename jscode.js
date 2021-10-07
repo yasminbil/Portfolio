@@ -4,9 +4,9 @@ var images = []; //Tom array
 var time = 1500; //1,5 sekunder mellan bilderna
 
 //Bildlista
-images[0] = 'Images/AftonbladetDD.png';
+images[0] = 'Images/AftonbladetDD.JPG';
 images[1] = 'Images/Climatepersona.png';
-images[2] = 'Images/brainstorming.jpg';
+images[2] = 'Images/brainstorming.JPG';
 
 //Byta bild-funktion
 function changeImg(){
